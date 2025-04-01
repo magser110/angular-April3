@@ -1,0 +1,3 @@
+:host(.pressed) {
+  background-color: lightgreen;
+}
